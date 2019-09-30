@@ -1,0 +1,6 @@
+timeout 1
+
+title	hurlex 0.01
+	root (fd0)
+	kernel /hx_kernel
+        module /initrd
