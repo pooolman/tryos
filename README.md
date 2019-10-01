@@ -1,5 +1,5 @@
 # tryos
-A hoby os runs on x86 platform with neassary features(multi-process, filesystem, user shell, etc)
+A hoby os runs on x86 platform with neassary features(multi-process, filesystem, user shell, etc). Bochs/VirtualBox has approved, but Vmware and naked hardware yet not.
 
 ## Design documents:
 
