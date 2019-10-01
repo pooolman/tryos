@@ -42,7 +42,7 @@ For any questions, please contract me(wssy213 at sina dot cn)
     
   - fs_tools.txt
     
-    描述用于在虚拟磁盘上创建文件系统/检查文件系统的文档
+    描述用于在虚拟磁盘上创建文件系统/检查文件系统相关工具的文档
 
 # 注意事宜
 该项目尚未整理完毕，请耐心等待
