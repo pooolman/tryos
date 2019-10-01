@@ -1,9 +1,9 @@
-# tryos
+# Tryos
 A hoby os runs on x86 platform with neassary features(multi-process, filesystem, user shell, etc). Bochs/VirtualBox has approved, but Vmware and naked hardware yet not.
 
 There is also a toturial under development which releated to how to write a os from cratch, I will upload it once it's available.
 
-## Design documents:
+# Design documents:
 
   - simplified_design_skeleton.pdf
   
@@ -17,20 +17,20 @@ There is also a toturial under development which releated to how to write a os f
   
     Document describes tools to make/check filesystem on an empty virtual disk.
 
-# note
+# Note
 Currently this project is unstable, and there are some works to do to make it clear. Please waite for a while.
 
-# contract
+# Contract
 For any questions, please contract me(wssy213 at sina dot cn)
 
 # ---------------- split -------------------
 
-# tryos
+# Tryos
 一个运行在x86平台上的玩具os，具有多进程、文件系统、用户shell等特性。已在Bochs/VirtualBox上测试通过，Vmware/裸机上尚未测试或测试未通过。
 
 同时，我还在编写一份如何从零开始设计并实现一个hoby os的指南，一旦成熟，我将公开到github上。
 
-## 设计文档：
+# 设计文档：
   
   - simplified_design_skeleton.pdf
     
