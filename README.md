@@ -7,15 +7,15 @@ There is also a toturial under development which releated to how to write a os f
 
 ## Design documents:
 
-  - simplified_design_skeleton.pdf
+  - [simplified_design_skeleton.pdf](https:://github.com/pooolman/tryos/blob/master/simplified_design_skeleton.pdf "Markdown")
   
     An overall view on tryos.
   
-  - demand_skeleton_analysis.txt
+  - [demand_skeleton_analysis.txt](https://github.com/pooolman/tryos/blob/master/demand_skeleton_analysis.txt "Markdown")
   
     Detailed design document releated to kernel.
     
-  - fs_tools.txt
+  - [fs_tools.txt](https://github.com/pooolman/tryos/blob/master/fs_tools.txt "Markdown")
   
     Document describes tools to make/check filesystem on an empty virtual disk.
 
