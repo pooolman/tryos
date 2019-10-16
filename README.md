@@ -7,7 +7,7 @@ There is also a toturial under development which releated to how to write a os f
 
 ## Design documents:
 
-  - [simplified_design_skeleton.pdf](https:://github.com/pooolman/tryos/blob/master/simplified_design_skeleton.pdf "Markdown")
+  - [simplified_design_skeleton.pdf](https://github.com/pooolman/tryos/blob/master/simplified_design_skeleton.pdf "Markdown")
   
     An overall view on tryos.
   
