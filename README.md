@@ -34,15 +34,15 @@ For any questions, please contract me(wssy213 at sina dot cn)
 
 ### 设计文档：
   
-  - simplified_design_skeleton.pdf
+  - [simplified_design_skeleton.pdf](https://github.com/pooolman/tryos/blob/master/simplified_design_skeleton.pdf "Markdown")
     
     对Tryos的一个整体性描述
     
-  - demand_skeleton_analysis.txt
+  - [demand_skeleton_analysis.txt](https://github.com/pooolman/tryos/blob/master/demand_skeleton_analysis.txt "Markdown")
     
     内核的详细开发文档
     
-  - fs_tools.txt
+  - [fs_tools.txt](https://github.com/pooolman/tryos/blob/master/fs_tools.txt "Markdown")
     
     描述用于在虚拟磁盘上创建文件系统/检查文件系统相关工具的文档
 
