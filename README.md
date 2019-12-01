@@ -3,7 +3,7 @@ A hoby os runs on x86 platform with neassary features(multi-process, filesystem,
 
 There is also a toturial under development which releated to how to write a os from cratch, I will upload it once it's available.
 
-![tryos_cap.gif](https://i.loli.net/2019/10/01/FNAiBq3oJsDgPx8.gif)
+![tryos_capture.gif](https://i.loli.net/2019/10/01/FNAiBq3oJsDgPx8.gif)
 
 ## Design documents:
 
